@@ -54,7 +54,7 @@ At **Fourfox**, we're a passionate team of developers, designers, and problem-so
 
 ### 📫 Contact & Socials
 
-Want to work with us or have a project idea? Let's chat!
+Want to work with us or have a project idea? Let's chat! 
 
 <p>
   <a href="https://fourfox.io" target="_blank">
